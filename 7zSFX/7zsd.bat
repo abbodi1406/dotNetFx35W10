@@ -1,0 +1,1 @@
+@copy /b "%~dp17zsd.sfx" + "%~dp1config.txt" + %1 "%~dpn1.exe"
