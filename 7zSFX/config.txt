@@ -21,7 +21,7 @@ AutoInstalls="hidcon:NET35.cmd s"
 BeginPrompt="{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Tahoma;}}
 \viewkind4\uc1\pard\sl240\slmult1\f0\fs30\lang9 %product% Setup\par\fs16\par\par\par
 This will install %product% (includes .NET 2.0 and 3.0) feature for Windows 10.\par\par
-Supports Windows 10 RS builds (version 1607 and later).\par}"
+Supports Windows 10 version 1809 and later.\par}"
 
 CancelPrompt="Are you sure you want to cancel?"
 

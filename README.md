@@ -31,11 +31,13 @@ Silent mode, no user input required or any output shown.
 
 * Older releases:  
 
-Windows 10 builds 17134/16299/15063/14393  
+- [Windows 10 builds 18362/17763/17134](https://github.com/abbodi1406/dotNetFx35W10/releases/tag/v0.19.03)
+
+- Windows 10 builds 17134/16299/15063/14393  
 ```
-  File: dotNetFx35_WX_6_x86_x64.exe  
-  SHA1: f52a6aee447d39f35dace3d15f76d39019c65bec  
-SHA256: 3960b5cdcca5fb378bd3616170ced0f0dd39707513f2fa8e82e9c71b62002d8d
+   File: dotNetFx35_WX_6_x86_x64.exe  
+  SHA-1: f52a6aee447d39f35dace3d15f76d39019c65bec  
+SHA-256: 3960b5cdcca5fb378bd3616170ced0f0dd39707513f2fa8e82e9c71b62002d8d
 ```
 
 (https://drive.google.com/open?id=13udwgPrbRSsiZKfrdXddTmeMhJG7bcgL)  
